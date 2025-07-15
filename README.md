@@ -22,11 +22,15 @@ Developed a Power BI logistics dashboard to optimize e-commerce delivery perform
 ![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Evecutive%20Summary.png)
 
 ### Delivery Performance  
-![image alt](https://github.com/Khadiga-Hisham/PwC-Call-Center-Insights/blob/8bbb9232a9e86b63b85dc1b2a7dc5bd466a3ef0e/Rating.png)
+![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Delivery%20Performance.png)
 
-### Product Analysis  
-![image alt](https://github.com/Khadiga-Hisham/PwC-Call-Center-Insights/blob/8bbb9232a9e86b63b85dc1b2a7dc5bd466a3ef0e/Rating.png)
+### Operational insights
+![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Operational%20Insights.png)
 
-![image alt](https://github.com/Khadiga-Hisham/PwC-Call-Center-Insights/blob/8bbb9232a9e86b63b85dc1b2a7dc5bd466a3ef0e/Rating.png)
+### Insights & Recommendations 1
+![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Insights%20%26%20Recommendations%201.png)
+
+### Insights & Recommendations 2
+![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Insights%20%26%20Recommendations%202.png)
 
 
