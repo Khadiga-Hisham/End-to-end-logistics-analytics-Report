@@ -27,6 +27,9 @@ Developed a Power BI logistics dashboard to optimize e-commerce delivery perform
 ### Operational insights
 ![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Operational%20Insights.png)
 
+### Product-level Analysis
+![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Product-Level%20Analysis.png)
+
 ### Insights & Recommendations 1
 ![image alt](https://github.com/Khadiga-Hisham/End-to-end-logistics-analytics-Report/blob/main/Insights%20%26%20Recommendations%201.png)
 
