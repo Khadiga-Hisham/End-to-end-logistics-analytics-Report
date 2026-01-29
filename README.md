@@ -1,4 +1,4 @@
-# End-to-end logistics analytics Report – E-commerce Operations
+# End-to-end logistics analytics Report - E-commerce Operations
 
 Developed a Power BI logistics dashboard to optimize e-commerce delivery performance, providing deep visibility into fulfillment gaps, partner inefficiencies, and product-level delays.
 
